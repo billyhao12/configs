@@ -1,5 +1,4 @@
 {
-    "vim.hlsearch": true,
-    "vim.gdefault": true,
-    "vim.ignorecase": false
+  "vim.hlsearch": true,
+  "vim.gdefault": true
 }
